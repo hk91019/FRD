@@ -4,7 +4,6 @@
 <h3 align="center">프렌즈레이싱 듀오</h3>
 <p align="center">🏢 개발사 : SONNORI<br>🕹️ 장르 : 레이싱<br>📱 플랫폼 : Android / iOS<br><sub>(One Store 선 출시 후 Google Play Store 및 App Store 출시)</sub></p>
 
-
 <h4 align="center">📌 주요 특징</h4>
     
 ```md
@@ -25,3 +24,9 @@
 - 1차 릴리즈 기준 크리티컬 이슈 ‘0건’ 유지
 - One Store, Google Play, App Store 기준 모두 통과
 ```
+
+<br>
+
+<p align="center">이 레포지토리는 제가 실제 프로젝트에서 작성하거나 사용했던 QA 산출물을 정리한 포트폴리오입니다.
+  <br><br>
+  <kbd>&nbsp;&nbsp;⚠️ 서비스 종료 프로젝트인 '프렌즈레이싱 듀오'의 실제 문서입니다.&nbsp;&nbsp;<br><br>팀원 이름만 마스킹하였으며, 그 외 내용은 당시 버전입니다.</kbd></p>
